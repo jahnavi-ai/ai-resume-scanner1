@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+spacy
+nltk
+pandas
+pdfminer.six
+pyresparser
